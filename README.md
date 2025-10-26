@@ -858,16 +858,6 @@ Graph_ID,Vertices,Edges,Prim_Cost,Prim_Operations,Prim_Time_ms,Kruskal_Cost,Krus
 **Course:** Design and Analysis of Algorithms  
 **Assignment:** 3 - Minimum Spanning Tree Algorithms  
 **Date:** October 2025  
-**Grade Target:** 110/100 (100% + 10% bonus)
 
----
-
-## 📜 License
-
-This project is submitted for academic purposes as part of the Design and Analysis of Algorithms course.
-
----
-
-**Status:** ✅ Complete and Ready for Submission
 
 **Last Updated:** October 2025
