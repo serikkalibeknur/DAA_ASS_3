@@ -1,0 +1,42 @@
+================================================================================
+MST ALGORITHM COMPARISON - ANALYSIS SUMMARY
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total graphs tested: 28
+Prim total time: 493.92 ms
+Kruskal total time: 145.10 ms
+Average speedup (Kruskal): 3.40x
+
+WINNER DISTRIBUTION
+--------------------------------------------------------------------------------
+Kruskal: 26 wins (92.9%)
+Prim: 2 wins (7.1%)
+
+PERFORMANCE BY CATEGORY
+--------------------------------------------------------------------------------
+
+Small graphs (5 graphs):
+  Average Prim time: 0.42 ms
+  Average Kruskal time: 0.63 ms
+  Speedup: 0.66x
+
+Medium graphs (10 graphs):
+  Average Prim time: 7.65 ms
+  Average Kruskal time: 2.91 ms
+  Speedup: 2.63x
+
+Large graphs (10 graphs):
+  Average Prim time: 33.24 ms
+  Average Kruskal time: 8.86 ms
+  Speedup: 3.75x
+
+Extra Large graphs (3 graphs):
+  Average Prim time: 27.66 ms
+  Average Kruskal time: 8.11 ms
+  Speedup: 3.41x
+
+================================================================================
+END OF SUMMARY
+================================================================================
